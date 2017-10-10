@@ -1,2 +1,2 @@
 # math_example
-This is a repo ohelp me practise on Python unittest
+This is a repo to help me practise on Python unittest
