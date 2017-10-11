@@ -7,7 +7,7 @@ class Employee:
         self.first = first
         self.last = last
         self.pay = pay
-        
+         
     @property
     def email(self):
         return '{}.{}@email.com'.format(self.first, self.last)
